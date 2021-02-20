@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:3
+
+#EXT-X-STREAM-INF:PROGRAM-ID=1,
+http://ws.hls.nimo.tv/live/su1599511831057rca9f65aca4b72a6f24d2576ed381e42f_mid.m3u8
